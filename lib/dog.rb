@@ -1,3 +1,4 @@
 class Dog 
 end
-fido = new 
+fido = Dog.new 
+snoopy = 
